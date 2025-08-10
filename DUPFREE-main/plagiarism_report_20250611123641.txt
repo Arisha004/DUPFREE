@@ -1,0 +1,17 @@
+     ~~~~~~~~~~~~~~~~~~~~ PLAGIARISM REPORT ~~~~~~~~~~~~~~~~~
+     ---------------------------------------------------
+     File                 | Similarity      | Severity       
+     ---------------------------------------------------
+     Demo2.txt            | 100.00          | High           
+     ---------------------------------------------------
+     Total Files Compared: 1
+     Total Plagiarized Files: 1
+     Average Similarity: 100.00%
+
+     --------------------------------------------------------------------------
+               Text Analysis Results
+     --------------------------------------------------------------------------
+     Sentence Length (Avg):   |    919 (Long sentences - Complex text.)
+     Reading Ease (Flesch):   |    -882.35 (Difficult to read.)
+     AI Likelihood Score:     |    0.57 (Likely human-written.)
+     --------------------------------------------------------------------------

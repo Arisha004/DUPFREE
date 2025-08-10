@@ -1,0 +1,17 @@
+     ~~~~~~~~~~~~~~~~~~~~ PLAGIARISM REPORT ~~~~~~~~~~~~~~~~~
+     ---------------------------------------------------
+     File                 | Similarity      | Severity       
+     ---------------------------------------------------
+     pdforiginal.pdf      | 54.05           | Moderate       
+     ---------------------------------------------------
+     Total Files Compared: 1
+     Total Plagiarized Files: 1
+     Average Similarity: 54.05%
+
+     --------------------------------------------------------------------------
+               Text Analysis Results
+     --------------------------------------------------------------------------
+     Sentence Length (Avg):   |    4 (Short sentences - Easy to read.)
+     Reading Ease (Flesch):   |    75.88 (Very easy to read.)
+     AI Likelihood Score:     |    0.58 (Likely human-written.)
+     --------------------------------------------------------------------------
