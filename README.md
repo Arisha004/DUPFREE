@@ -1,6 +1,6 @@
 # Dupfree
 
-![CLI Screenshot](images/Dupfree.png)
+![CLI Screenshot](https://i.postimg.cc/3wC1Ymwm/Chat-GPT-Image-Aug-10-2025-10-43-46-AM.png)
 
 Dupfree is a powerful, CLI-based plagiarism detection tool designed to detect textual similarity and assess AI-generated text likelihood. With the ability to process text inputs, TXT files, and PDF documents, Dupfree generates detailed analysis reports, including output on the console and in TXT format.
 
@@ -180,11 +180,6 @@ Ensure all functionalities, including text analysis and plagiarism detection, pa
    git push origin feature-branch
    ```
 4. Submit a pull request for review.
-
-## Output Examples
-
-![CLI Screenshot](images/dupfree1.png)
-![CLI Screenshot](images/dupfree2.png)
 
 ## Contact
 
